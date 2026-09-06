@@ -231,6 +231,7 @@ Ex: (union select null,load_file(‘/etc/passwd’),null,null,null).
 
 
 ##  OUTPUT
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/6d15c4da-6859-41f9-85d6-f3e6f9cde017" />
 
 
 ## RESULT:
